@@ -1,0 +1,14 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\20122\OneDrive\Desktop\tren\tren.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\20122\OneDrive\Desktop\tren\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	bin\jre1.8.0_111
+Check launcher:	C:\Users\20122\OneDrive\Desktop\tren\bin\jre1.8.0_111\bin\javaw.exe (OK)
+Launcher:	C:\Users\20122\OneDrive\Desktop\tren\bin\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\20122\OneDrive\Desktop\tren\tren.exe"
+Args length:	52/32768 chars
+Exit code:	0
